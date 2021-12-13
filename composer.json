@@ -1,0 +1,16 @@
+{
+    "name": "code/quete_composer",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "Code\\QueteComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bobacar BOUTAYEB",
+            "email": "codesolidaire@gmail.com"
+        }
+    ],
+    "require": {}
+}
