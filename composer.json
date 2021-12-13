@@ -3,7 +3,8 @@
     "description": "Projet quete composer",
     "autoload": {
         "psr-4": {
-            "Code\\QueteComposer\\": "src/"
+            "Code\\QueteComposer\\": "src/",
+            "App\\": "src/"
         }
     },
     "authors": [
